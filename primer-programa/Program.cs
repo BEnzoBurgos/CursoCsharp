@@ -6,7 +6,7 @@ namespace primer_programa
     {
         static void Main(string[] args)
         {
-         Console.WriteLine("Hello salames!");
+         Console.WriteLine("Hello gente!");
         }
     }
 }
